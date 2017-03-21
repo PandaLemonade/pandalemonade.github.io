@@ -50,7 +50,7 @@ audio, canvas, video { display: inline-block; }
 .no-js body{margin-top:75px;}
 
 #container{min-height:100%;position:relative;}
-section#content{padding-bottom:194px;}
+section#content{padding-bottom:10px;}
 section#content .strong{color:#212328;}
 section#content header{padding:0 60px; }
 section#content #pfd{padding:60px 0}
@@ -68,7 +68,7 @@ section#content #preamble.home h1{color:#80807e}
 section#content #our-work{zoom:1}
 section#content #our-work:after,section#content #our-work:before{content:' ';display:table}
 section#content #our-work:after{clear:both}
-section#content #our-work{margin-bottom:0}
+section#content #our-work{margin-bottom:0; padding: 0 60px; }
 section#content #our-work ul{list-style:none}
 section#content #our-work ul li{display:block;float:left;width:25%;position:relative}
 section#content #our-work ul li a{text-decoration:none}
