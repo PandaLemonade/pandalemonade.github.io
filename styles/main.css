@@ -130,8 +130,8 @@ nav#toc ul li:first-child{border-top:none}
 nav#toc a#toc-actuator{background:#f8f8f8 url(../images/pfd-sprites.png) no-repeat left top;cursor:pointer;display:block;height:30px;left:-94px;position:absolute;text-indent:-8000px;top:60px;width:34px;z-index:5000}
 @media screen and (max-width:1200px){
  footer#msf .wrapper{margin:0 30px}
- section#content header{padding:0 30px 60px}
- section#content #pfd{padding-top:30px}
+ section#content header{padding:0 30px;}
+ section#content #pfd{padding:30px 0;}
  section#content #our-work ul li .overlay summary{left:30px}
  section#content #our-work ul li .overlay .loves{right:30px;top:30px}
  section#content #pfd-work footer{padding:50px 30px 0}
@@ -155,7 +155,8 @@ nav#toc a#toc-actuator{background:#f8f8f8 url(../images/pfd-sprites.png) no-repe
  section#content p.em{font:300 15px/1.4em museo-sans,sans-serif!important}
 }
 @media screen and (max-width:460px){
- section#content{padding-bottom:234px}
+ section#content #our-work{margin-bottom:0; padding: 0 30px; }
+ section#content #our-work ul li { width: 50%; }
  section#content #what-we-do #photography #example-photographs li{min-height:50px}
  footer#msf .wrapper{padding:20px 0}
  footer#msf ul#lets-be-social{float:none;width:auto;zoom:1}
