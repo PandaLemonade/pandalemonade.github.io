@@ -116,9 +116,8 @@ footer#msf .wrapper{border-top:1px solid #e4e4e4;height:73px;margin:0 60px}
 footer#msf ul#lets-be-social{float:left;width:230px;list-style:none}
 footer#msf ul#lets-be-social li{float:left;padding-right:8px}
 footer#msf div#legal{float:right;font:400 15px/1em Source Sans Pro,sans-serif;text-align:right;width:300px}
-footer#msf div#legal span{padding-right:36px}
 footer#msf li a,footer#msf span{line-height:73px}
-footer#msf #legal span{line-height:25px;margin-top:15px;display:block;background:url(../images/isologo.png) right center no-repeat; background-size: 20%; padding-right: 55px;}
+footer#msf #legal span{line-height:25px;margin-top:15px;display:block;background:url(../images/isologo.png) right center no-repeat; background-size: 20%; padding-right:55px;}
 footer#msf a{font:300 14px museo-sans,sans-serif;text-decoration:none}
 footer#msf a:hover{color:#80807e}
 nav#toc{background-color:#212328;height:100%;position:fixed;right:-240px;top:0;width:240px}
