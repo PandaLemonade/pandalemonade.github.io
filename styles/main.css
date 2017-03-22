@@ -81,7 +81,7 @@ section#content #our-work ul li .overlay summary h3{color:#813815;font:300 15px/
 section#content #our-work ul li .overlay .loves{-moz-borderradius:40px;-webkit-borderradius:40px;background-color:#fff;border-radius:40px;height:80px;position:absolute;right:60px;text-align:center;top:60px;width:80px}
 section#content #our-work ul li .overlay .loves span{background:transparent url(../images/pfd-sprites.png) no-repeat right -121px;color:#ed7b47;font:300 15px/1.4em museo-sans,sans-serif;line-height:80px;padding-right:25px}
 section#content #pfd-work{position:relative;zoom:1}
-section#content #pfd-work footer{bottom:-80px;padding:50px 60px 0;position:absolute;right:0}
+section#content #pfd-work footer{padding:10px 60px 0; }
 section#content #pfd-work footer #other-projects{float:right;list-style:none}
 section#content #pfd-work footer #other-projects li{float:left;margin-left:12px}
 section#content #pfd-work footer #other-projects a{background:#f8f8f8 url(../images/pfd-sprites.png) no-repeat;display:block;height:30px;text-indent:-8000px;width:34px}
