@@ -55,7 +55,6 @@ section#content .strong{color:#212328;}
 section#content header{padding:0 60px; }
 section#content #pfd{padding:60px 0}
 section#content #pfd img{height:28px;width:180px}
-/* section#content #preamble,section#content article{max-width:1200px} */
 section#content #preamble h1,section#content article h1{color:#212328;font:300 22px/1.2em Source Sans Pro,sans-serif;padding-bottom:1em}
 section#content #preamble h2,section#content article h2{color:#80807e;font:300 15px/1.4em museo-sans,sans-serif;padding-bottom:1em}
 section#content #preamble h3,section#content article h3{color:#212328;font:300 15px/1.4em museo-sans,sans-serif}
@@ -134,7 +133,6 @@ nav#toc a#toc-actuator{background:#f8f8f8 url(../images/pfd-sprites.png) no-repe
  section#content #our-work{ padding: 0 30px; }
  section#content #our-work ul li .overlay summary{left:30px}
  section#content #our-work ul li .overlay .loves{right:30px;top:30px}
- section#content #pfd-work footer{padding:50px 30px 0}
  section#content #what-we-do header{padding:0 30px}
  section#content #what-we-do article{padding:120px 30px}
  section#content #what-we-do #identity article{padding:120px 30px}
