@@ -111,7 +111,7 @@ section#content #what-we-do header{background:transparent url(../images/grass.jp
 section#content #what-we-do header #preamble{padding-bottom:60px}
 section#content #what-we-do article{padding:120px 60px}
 section#content #what-we-do article h2{color:#212328;font:300 22px/1.2em Source Sans Pro,sans-serif}
-section#content #what-we-do #web-design .parallax{background:#ededeb url(/images/parallax.jpg) no-repeat 50% 0!important; background-size: 100% 100%;}
+section#content #what-we-do #web-design .parallax{background:#ededeb url(/images/parallax.jpg) no-repeat 50% 0!important; background-size: 100% 50% !important;}
 section#content footer#msf{bottom:0;left:0;position:absolute;width:100%}
 footer#msf .wrapper{border-top:1px solid #e4e4e4;height:73px;margin:0 60px}
 footer#msf ul#lets-be-social{float:left;width:230px;list-style:none}
