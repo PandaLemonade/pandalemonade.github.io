@@ -111,7 +111,7 @@ section#content #what-we-do header{background:transparent url(../images/grass.jp
 section#content #what-we-do header #preamble{padding-bottom:60px}
 section#content #what-we-do article{padding:120px 60px}
 section#content #what-we-do article h2{color:#212328;font:300 22px/1.2em Source Sans Pro,sans-serif}
-section#content #what-we-do #web-design .parallax{background:#ededeb url(/images/parallax.jpg) no-repeat 50% 0!important; background-size: 100% 50% !important;}
+section#content #what-we-do #web-design .parallax{background:#ededeb url(/images/parallax.jpg) no-repeat 50% 0!important; background-size: 100% 100% !important;}
 section#content footer#msf{bottom:0;left:0;position:absolute;width:100%}
 footer#msf .wrapper{border-top:1px solid #e4e4e4;height:73px;margin:0 60px}
 footer#msf ul#lets-be-social{float:left;width:230px;list-style:none}
@@ -137,7 +137,6 @@ nav#toc a#toc-actuator{background:#f8f8f8 url(../images/pfd-sprites.png) no-repe
  section#content #pfd-work footer{padding:50px 30px 0}
  section#content #what-we-do header{padding:0 30px}
  section#content #what-we-do article{padding:120px 30px}
- section#content #what-we-do #web-design .parallax{ height:750px}
  section#content #what-we-do #identity article{padding:120px 30px}
  footer#msf .wrapper{margin:0 30px}
  nav#toc ul{padding-top:30px}
@@ -151,7 +150,6 @@ nav#toc a#toc-actuator{background:#f8f8f8 url(../images/pfd-sprites.png) no-repe
  section#content #pfd-work #links{display:none}
  section#content #what-we-do section{height:auto!important}
  section#content #what-we-do section article{padding:60px 30px}
- section#content #what-we-do #web-design .parallax{ height:460px}
  section#content #what-we-do #identity{border-bottom:none}
  section#content #what-we-do #identity article{padding:60px 30px}
  section#content #pfd-about #example-photographs li,section#content #what-we-do #photography #example-photographs li{width:100%!important}
