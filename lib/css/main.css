@@ -127,10 +127,10 @@ nav#toc ul li{border-top:1px solid #424650;padding:4px 0 5px}
 nav#toc ul li a{color:#80807e;font:300 15px/2em museo-sans,sans-serif;text-decoration:none}
 nav#toc ul li a.active,nav#toc ul li a:hover{color:#fff}
 nav#toc ul li:first-child{border-top:none}
-nav#toc a#toc-actuator{background:#f8f8f8 url(../../images/pfd-sprites.png) no-repeat left top;cursor:pointer;display:block;height:30px;left:-94px;position:absolute;text-indent:-8000px;top:60px;width:34px;z-index:5000}
+nav#toc a#toc-actuator{background:#f8f8f8 url(../../images/pfd-sprites.png) no-repeat left top;cursor:pointer;display:block;height:30px;left:-64px;position:absolute;text-indent:-8000px;top:40px;width:34px;z-index:5000}
 @media screen and (max-width:1200px){
  section#content header{padding:0 17px;}
- section#content #pfd{padding:17px 0;}
+ section#content #pfd{padding:40px 0 20px;}
  section#content #our-work{ padding: 0 30px; }
  section#content #our-work ul li .overlay summary{left:30px}
  section#content #our-work ul li .overlay .loves{right:30px;top:30px}
@@ -139,7 +139,6 @@ nav#toc a#toc-actuator{background:#f8f8f8 url(../../images/pfd-sprites.png) no-r
  section#content #what-we-do #identity article{padding:120px 30px}
  footer#msf .wrapper{margin:0 30px}
  nav#toc ul{padding-top:30px}
- nav#toc a#toc-actuator{left:-64px;top:30px}
 }
 @media screen and (max-width:768px){
  section#content #our-work{ padding: 0 30px; }
