@@ -29,7 +29,7 @@ audio, canvas, video { display: inline-block; }
 #container {min-height:100%;position:relative; width: 96%; margin: auto; }
 #container .strong{color:#212328;}
 header { padding: 20px 0; }
-#pfd img{width:300px}
+#pfd img{width:250px}
 #toc{background-color:#212328;height:100%;position:fixed;right:-240px;top:0;width:240px}
 #toc ul{list-style:none;padding:60px 40px 0}
 #toc ul li{border-top:1px solid #424650;padding:4px 0 5px}
