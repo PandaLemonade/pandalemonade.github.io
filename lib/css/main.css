@@ -29,7 +29,7 @@ audio, canvas, video { display: inline-block; }
 #container {min-height:100%;position:relative; width: 96%; margin: auto; }
 #container .strong{color:#212328;}
 header { padding: 20px 0; }
-#pfd img{width:250px}
+#pfd img{width:200px}
 #toc{background-color:#212328;height:100%;position:fixed;right:-240px;top:0;width:240px}
 #toc ul{list-style:none;padding:60px 40px 0}
 #toc ul li{border-top:1px solid #424650;padding:4px 0 5px}
@@ -64,11 +64,11 @@ header { padding: 20px 0; }
 #preamble ul li .overlay:hover summary h2{background:url(../../images/pfd-sprites.png) no-repeat left bottom;color:#fff;font:400 20px/1em Source Sans Pro,sans-serif;padding-bottom:15px}
 #preamble ul li .overlay:hover summary h3{color:#813815;font:300 15px/0.9em Source Sans Pro,sans-serif;padding-top:12px; display: block !important;}
 
-#what-we-do article{padding:120px 60px}
+#what-we-do article{padding: 60px}
 #what-we-do article h2{color:#212328;font:300 22px/1.2em Source Sans Pro,sans-serif}
 #what-we-do article p{color:#FFF;}
-#what-we-do #web-design {background:#ededeb url(../../images/parallax.jpg) no-repeat 50% 0!important; background-size: 100% 100% !important;}
-#what-we-do #mercado-libre {background:#ededeb url(../../images/parallax.jpg) no-repeat 50% 0!important; background-size: 100% 100% !important;}
+#what-we-do #web-design {background:#ededeb url(../../images/design_process.jpg) no-repeat 50% 70% !important;}
+#what-we-do #social-media {background: #ededeb url(../../images/lemon_splash.jpg) no-repeat 50% 85% !important;}
 
 footer{ border-top:1px solid #e4e4e4;position: absolute; bottom: 0; width: 100%; }
 footer ul#lets-be-social{float:left;width:230px;list-style:none}
@@ -107,9 +107,6 @@ footer a:hover{color:#80807e}
 #other-projects a{background:#f8f8f8 url(../../images/pfd-sprites.png) no-repeat;display:block;height:30px;text-indent:-8000px;width:34px}
 #other-projects a.previous-work{background-position:0 -30px}
 #other-projects a.next-work{background-position:0 -60px}
-
-
-
 
 /* Responsive Styles Standard Desktop Only */
 @media all and (max-width: 1405px) { 
@@ -183,7 +180,7 @@ footer a:hover{color:#80807e}
 }
 @media screen and (max-width:320px){
   section#content #pfd { padding: 20px 0; }
-  section#content #pfd img { width: 200px; }
+  section#content #pfd img { width: 160px; }
   nav#toc a#toc-actuator { left: -75px; }
 }
 
